@@ -1,0 +1,10 @@
+user:
+  name: ""
+  password: ""
+
+pi_port: 21
+
+root: ""
+
+passive_port:
+  - 20000
